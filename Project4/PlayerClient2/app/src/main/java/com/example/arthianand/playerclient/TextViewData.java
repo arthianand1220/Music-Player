@@ -1,7 +1,7 @@
-package com.example.samrudhinayak.playerclient;
+package com.example.arthianand.playerclient;
 
 /**
- * Created by Samrudhi Nayak on 4/8/2016.
+ * Created by Arthi Anand on 4/8/2016.
  */
 public class TextViewData {
     private String date1;
